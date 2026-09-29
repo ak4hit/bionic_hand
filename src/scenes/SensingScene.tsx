@@ -4,7 +4,6 @@ import { Captions } from "../components/Captions";
 import { Chip } from "../components/Chip";
 import { Counter } from "../components/Counter";
 import { ImageCard } from "../components/ImageCard";
-import { TopicChip } from "../components/TopicChip";
 import { COLORS } from "../constants";
 import { SceneProps } from "../types";
 
@@ -31,7 +30,6 @@ export const SensingScene: React.FC<SceneProps> = ({
       }}
     >
       <Audio src={staticFile("voice/scene6.mp3")} />
-      <TopicChip topic={topic} sceneNumber={scene} />
 
       {/* Header Info */}
       <div

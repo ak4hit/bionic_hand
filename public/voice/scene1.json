@@ -1,7 +1,7 @@
 {
   "id": "scene1",
   "scene": 1,
-  "text": "The HANDi Hand is an open-source robotic hand, built for machine learning and prosthetics research.",
+  "text": "The Thought-Controlled Bionic Hand is an open-source robotic hand, built for machine learning and prosthetics research.",
   "voice": "en-IN-NeerjaNeural",
   "rate": "-5%",
   "words": [
@@ -12,89 +12,95 @@
       "duration": 0.1974
     },
     {
-      "text": "HANDi",
+      "text": "Thought-Controlled",
       "start": 0.3105,
-      "end": 0.7447,
-      "duration": 0.4342
+      "end": 1.1658,
+      "duration": 0.8552
+    },
+    {
+      "text": "Bionic",
+      "start": 1.179,
+      "end": 1.7053,
+      "duration": 0.5263
     },
     {
       "text": "Hand",
-      "start": 0.7579,
-      "end": 1.0868,
-      "duration": 0.329
+      "start": 1.7184,
+      "end": 2.0737,
+      "duration": 0.3553
     },
     {
       "text": "is",
-      "start": 1.1,
-      "end": 1.2184,
-      "duration": 0.1184
+      "start": 2.0868,
+      "end": 2.2184,
+      "duration": 0.1316
     },
     {
       "text": "an",
-      "start": 1.2316,
-      "end": 1.35,
+      "start": 2.2316,
+      "end": 2.35,
       "duration": 0.1184
     },
     {
       "text": "open-source",
-      "start": 1.3632,
-      "end": 2.1,
+      "start": 2.3632,
+      "end": 3.1,
       "duration": 0.7368
     },
     {
       "text": "robotic",
-      "start": 2.1132,
-      "end": 2.6526,
-      "duration": 0.5395
+      "start": 3.1132,
+      "end": 3.6658,
+      "duration": 0.5526
     },
     {
       "text": "hand",
-      "start": 2.6658,
-      "end": 3.1263,
-      "duration": 0.4605
+      "start": 3.679,
+      "end": 4.1263,
+      "duration": 0.4474
     },
     {
       "text": "built",
-      "start": 3.2842,
-      "end": 3.6132,
+      "start": 4.3105,
+      "end": 4.6395,
       "duration": 0.329
     },
     {
       "text": "for",
-      "start": 3.6263,
-      "end": 3.7974,
+      "start": 4.6526,
+      "end": 4.8237,
       "duration": 0.171
     },
     {
       "text": "machine",
-      "start": 3.8105,
-      "end": 4.2447,
-      "duration": 0.4342
+      "start": 4.8368,
+      "end": 5.2579,
+      "duration": 0.421
     },
     {
       "text": "learning",
-      "start": 4.2579,
-      "end": 4.771,
+      "start": 5.271,
+      "end": 5.7842,
       "duration": 0.5132
     },
     {
       "text": "and",
-      "start": 4.7842,
-      "end": 5.0079,
-      "duration": 0.2237
+      "start": 5.7974,
+      "end": 6.0342,
+      "duration": 0.2368
     },
     {
       "text": "prosthetics",
-      "start": 5.021,
-      "end": 5.7316,
+      "start": 6.0474,
+      "end": 6.7579,
       "duration": 0.7105
     },
     {
       "text": "research",
-      "start": 5.7447,
-      "end": 6.35,
+      "start": 6.771,
+      "end": 7.3763,
       "duration": 0.6052
     }
   ],
-  "total_words": 15
+  "total_words": 16
 }

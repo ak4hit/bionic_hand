@@ -1,6 +1,6 @@
-# HANDi Hand Product-Explainer Video (Remotion)
+# Thought-Controlled Bionic Hand Demo Video (Remotion)
 
-A technical product-explainer video (~70 seconds, 1080p 30fps) for the **HANDi Hand** — a 3D-printed, open-source robotic hand designed for machine learning and prosthetics research at the BLINC Lab, University of Alberta.
+A technical presentation and explainer video (1080p 30fps) for the **Thought-Controlled Bionic Hand** — a 3D-printed bionic prosthetic hand integrating neural & muscle-signal control, stereo vision intelligence, and multi-modal sensory feedback.
 
 ---
 
@@ -74,4 +74,4 @@ Design tokens and styling parameters are centralized in:
 5. **Actuation**: Tendon spool powertrain (`servo_spool.png` cross-fading to `hero_both_hands.png`), Hitec HS-35HD servos, and aluminium heat-sink covers.
 6. **Sensing**: Joint angle potentiometers (`potentiometers.png`) and fingertip force sensors (`fingertip_finished.png`) with animated digital counters.
 7. **Palm**: Egocentric vision USB webcam (`webcam_palm.png`) and high-friction neoprene grip pads (`palm_grips_camera.png`).
-8. **Outro**: Full CAD rotation backdrop, build statistics (~30 hours build time, 163g PLA), and BLINC Lab research attribution.
+8. **Outro**: Full CAD rotation backdrop, build statistics (~30 hours build time, 163g PLA), and project team / institution credits.

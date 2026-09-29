@@ -2,7 +2,6 @@ import React from "react";
 import { Audio, OffthreadVideo, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { Captions } from "../components/Captions";
 import { Chip } from "../components/Chip";
-import { TopicChip } from "../components/TopicChip";
 import { COLORS } from "../constants";
 import { SceneProps } from "../types";
 
@@ -33,6 +32,13 @@ export const OutroScene: React.FC<SceneProps> = ({
     fps,
     config: { damping: 15, stiffness: 90 },
   });
+
+  const teamMembers = [
+    "Akshith JK",
+    "Leevan Michael Vaz",
+    "Mohammed Nishmal",
+    "Pavan Kumar",
+  ];
 
   return (
     <div
@@ -91,8 +97,6 @@ export const OutroScene: React.FC<SceneProps> = ({
         }}
       />
 
-      <TopicChip topic={topic} sceneNumber={scene} />
-
       {/* Foreground Content */}
       <div
         style={{
@@ -131,20 +135,20 @@ export const OutroScene: React.FC<SceneProps> = ({
               marginBottom: 12,
             }}
           >
-            Open-Source Robotics
+            Thought-Controlled Bionics
           </div>
           <h1
             style={{
               fontFamily: "'Space Grotesk', sans-serif",
-              fontSize: 68,
+              fontSize: 58,
               fontWeight: 800,
               color: COLORS.textPrimary,
-              lineHeight: 1.1,
+              lineHeight: 1.15,
               letterSpacing: "-0.03em",
               margin: 0,
             }}
           >
-            HANDi Hand
+            Thought-Controlled Bionic Hand
           </h1>
         </div>
 
@@ -171,7 +175,7 @@ export const OutroScene: React.FC<SceneProps> = ({
               margin: 0,
             }}
           >
-            Open source. About 30 hours to build. Fully modifiable.
+            Affordable. Vision-Guided. Multi-Modal Sensory Feedback.
           </p>
         </div>
 
@@ -192,29 +196,76 @@ export const OutroScene: React.FC<SceneProps> = ({
           <Chip label="Palm USB Camera" sublabel="Egocentric vision" delay={35} />
         </div>
 
-        {/* Credit Banner */}
+        {/* Credit Card / Institution Banner */}
         <div
           style={{
-            marginTop: 6,
-            padding: "14px 30px",
-            backgroundColor: "rgba(255, 255, 255, 0.85)",
-            borderRadius: 14,
+            marginTop: 10,
+            padding: "16px 42px",
+            backgroundColor: "rgba(255, 255, 255, 0.92)",
+            backdropFilter: "blur(12px)",
+            borderRadius: 18,
             border: `1px solid ${COLORS.cardBorder}`,
+            boxShadow: "0 8px 24px rgba(27, 37, 64, 0.06)",
             opacity: creditProgress,
             transform: `translateY(${(1 - creditProgress) * 15}px)`,
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            gap: 8,
           }}
         >
-          <p
+          {/* Team Members */}
+          <div
             style={{
-              fontFamily: "'Inter', sans-serif",
-              fontSize: 15,
-              fontWeight: 500,
-              color: COLORS.textSecondary,
-              margin: 0,
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              gap: 16,
+              flexWrap: "wrap",
             }}
           >
-            HANDi Hand by <strong style={{ color: COLORS.textPrimary }}>Dylan Brenneis</strong> and <strong style={{ color: COLORS.textPrimary }}>James Austin</strong>, BLINC Lab, University of Alberta. CAD overview created in FreeCAD.
-          </p>
+            {teamMembers.map((name, idx) => (
+              <React.Fragment key={name}>
+                <span
+                  style={{
+                    fontFamily: "'Space Grotesk', sans-serif",
+                    fontSize: 17,
+                    fontWeight: 700,
+                    color: COLORS.textPrimary,
+                    letterSpacing: "-0.01em",
+                  }}
+                >
+                  {name}
+                </span>
+                {idx < teamMembers.length - 1 && (
+                  <span
+                    style={{
+                      color: COLORS.accentOrange,
+                      fontWeight: 900,
+                      fontSize: 15,
+                      opacity: 0.65,
+                    }}
+                  >
+                    •
+                  </span>
+                )}
+              </React.Fragment>
+            ))}
+          </div>
+
+          {/* Institution */}
+          <div
+            style={{
+              fontFamily: "'Inter', sans-serif",
+              fontSize: 13,
+              fontWeight: 700,
+              color: COLORS.textSecondary,
+              letterSpacing: "0.12em",
+              textTransform: "uppercase",
+            }}
+          >
+            AIET Moodbidri
+          </div>
         </div>
       </div>
 

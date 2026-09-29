@@ -17,7 +17,7 @@ interface ImageCardProps {
 
 export const ImageCard: React.FC<ImageCardProps> = ({
   src,
-  alt = "HANDi Component",
+  alt = "Bionic Hand Component",
   width = "100%",
   height = "100%",
   badge,

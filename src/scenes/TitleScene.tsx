@@ -4,7 +4,6 @@ import { AnimatedHeading } from "../components/AnimatedText";
 import { Captions } from "../components/Captions";
 import { Chip } from "../components/Chip";
 import { ImageCard } from "../components/ImageCard";
-import { TopicChip } from "../components/TopicChip";
 import { COLORS } from "../constants";
 import { SceneProps } from "../types";
 
@@ -32,7 +31,6 @@ export const TitleScene: React.FC<SceneProps> = ({
       }}
     >
       <Audio src={staticFile("voice/scene1.mp3")} />
-      <TopicChip topic={topic} sceneNumber={scene} />
 
       {/* Left Column: Title and details */}
       <div
@@ -46,17 +44,17 @@ export const TitleScene: React.FC<SceneProps> = ({
       >
         <div style={{ display: "flex", gap: 12 }}>
           <Chip
-            label="RESEARCH PLATFORM"
-            sublabel="Open Source & Fully Modifiable"
+            label="BIONIC PROSTHETICS"
+            sublabel="Alva's Institute of Engg. & Technology"
             delay={3}
             highlight
           />
         </div>
 
         <AnimatedHeading
-          title="HANDi Hand"
-          subtitle="A 3D-printed, open-source robotic hand for machine learning and prosthetics research."
-          credit="Designed at the BLINC Lab, University of Alberta"
+          title="Thought-Controlled Bionic Hand"
+          subtitle="With Vision & Sensory Feedback — A low-cost, 3D-printed bionic hand integrating neural control, vision intelligence, and tactile feedback."
+          fontSize={60}
           delay={5}
           showUnderline
         />
@@ -81,7 +79,7 @@ export const TitleScene: React.FC<SceneProps> = ({
       >
         <ImageCard
           src="images/hero_both_hands.png"
-          alt="HANDi Hand Pair"
+          alt="Thought-Controlled Bionic Hand"
           badge="Complete Assembly"
           delay={8}
           enableKenBurns

@@ -27,7 +27,7 @@ export const DEFAULT_SCENES_CONFIG: SceneConfig[] = [
     scene: 1,
     name: "TITLE",
     topic: "INTRODUCING",
-    text: "The HANDi Hand is an open-source robotic hand, built for machine learning and prosthetics research.",
+    text: "The Thought-Controlled Bionic Hand is an open-source robotic hand, built for machine learning and prosthetics research.",
     fallbackDuration: 6.4,
   },
   {

@@ -8,6 +8,7 @@ interface AnimatedHeadingProps {
   credit?: string;
   delay?: number;
   showUnderline?: boolean;
+  fontSize?: number;
 }
 
 export const AnimatedHeading: React.FC<AnimatedHeadingProps> = ({
@@ -16,6 +17,7 @@ export const AnimatedHeading: React.FC<AnimatedHeadingProps> = ({
   credit,
   delay = 0,
   showUnderline = true,
+  fontSize = 76,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -54,7 +56,7 @@ export const AnimatedHeading: React.FC<AnimatedHeadingProps> = ({
         <h1
           style={{
             fontFamily: "'Space Grotesk', sans-serif",
-            fontSize: 76,
+            fontSize,
             fontWeight: 800,
             color: COLORS.textPrimary,
             lineHeight: 1.1,

@@ -1,7 +1,6 @@
 import React from "react";
 import { Audio, OffthreadVideo, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { Captions } from "../components/Captions";
-import { TopicChip } from "../components/TopicChip";
 import { COLORS } from "../constants";
 import { SceneProps } from "../types";
 
@@ -63,7 +62,6 @@ export const CadOverviewScene: React.FC<SceneProps> = ({
       }}
     >
       <Audio src={staticFile("voice/scene2.mp3")} />
-      <TopicChip topic={topic} sceneNumber={scene} />
 
       {/* Left: FreeCAD CAD Video in Large Rounded Card */}
       <div

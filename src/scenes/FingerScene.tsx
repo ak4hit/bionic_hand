@@ -3,7 +3,6 @@ import { Audio, spring, staticFile, useCurrentFrame, useVideoConfig } from "remo
 import { Captions } from "../components/Captions";
 import { Chip } from "../components/Chip";
 import { ImageCard } from "../components/ImageCard";
-import { TopicChip } from "../components/TopicChip";
 import { COLORS } from "../constants";
 import { SceneProps } from "../types";
 
@@ -41,7 +40,6 @@ export const FingerScene: React.FC<SceneProps> = ({
       }}
     >
       <Audio src={staticFile("voice/scene3.mp3")} />
-      <TopicChip topic={topic} sceneNumber={scene} />
 
       {/* Left: Exploded Finger Card */}
       <div
