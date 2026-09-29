@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build artifacts - only include the rendered video
+out/
+!out/handi_demo.mp4
+
+# Cache directories
+.cache/
+
+# Remotion bundle cache
+.remotion/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Preview stills (generated during dev)
+out/preview_*.png
+out/preview_*.jpg

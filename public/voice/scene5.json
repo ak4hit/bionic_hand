@@ -1,0 +1,148 @@
+{
+  "id": "scene5",
+  "scene": 5,
+  "text": "Each digit is pulled by a zip-tie tendon wound on a servo spool, and aluminium covers on the servos act as heat sinks.",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-5%",
+  "words": [
+    {
+      "text": "Each",
+      "start": 0.1,
+      "end": 0.4684,
+      "duration": 0.3684
+    },
+    {
+      "text": "digit",
+      "start": 0.4816,
+      "end": 0.8632,
+      "duration": 0.3816
+    },
+    {
+      "text": "is",
+      "start": 0.8763,
+      "end": 1.0342,
+      "duration": 0.1579
+    },
+    {
+      "text": "pulled",
+      "start": 1.0474,
+      "end": 1.3763,
+      "duration": 0.329
+    },
+    {
+      "text": "by",
+      "start": 1.3895,
+      "end": 1.6263,
+      "duration": 0.2368
+    },
+    {
+      "text": "a",
+      "start": 1.6395,
+      "end": 1.6921,
+      "duration": 0.0526
+    },
+    {
+      "text": "zip-tie",
+      "start": 1.7052,
+      "end": 2.2316,
+      "duration": 0.5263
+    },
+    {
+      "text": "tendon",
+      "start": 2.2447,
+      "end": 2.7053,
+      "duration": 0.4605
+    },
+    {
+      "text": "wound",
+      "start": 2.7184,
+      "end": 3.0868,
+      "duration": 0.3684
+    },
+    {
+      "text": "on",
+      "start": 3.1,
+      "end": 3.2316,
+      "duration": 0.1316
+    },
+    {
+      "text": "a",
+      "start": 3.2447,
+      "end": 3.3105,
+      "duration": 0.0658
+    },
+    {
+      "text": "servo",
+      "start": 3.3237,
+      "end": 3.771,
+      "duration": 0.4474
+    },
+    {
+      "text": "spool",
+      "start": 3.7842,
+      "end": 4.3368,
+      "duration": 0.5526
+    },
+    {
+      "text": "and",
+      "start": 4.4947,
+      "end": 4.7842,
+      "duration": 0.2895
+    },
+    {
+      "text": "aluminium",
+      "start": 4.7974,
+      "end": 5.4421,
+      "duration": 0.6448
+    },
+    {
+      "text": "covers",
+      "start": 5.4553,
+      "end": 5.9816,
+      "duration": 0.5263
+    },
+    {
+      "text": "on",
+      "start": 5.9947,
+      "end": 6.1263,
+      "duration": 0.1316
+    },
+    {
+      "text": "the",
+      "start": 6.1395,
+      "end": 6.2316,
+      "duration": 0.0921
+    },
+    {
+      "text": "servos",
+      "start": 6.2447,
+      "end": 6.8895,
+      "duration": 0.6448
+    },
+    {
+      "text": "act",
+      "start": 6.9026,
+      "end": 7.2316,
+      "duration": 0.329
+    },
+    {
+      "text": "as",
+      "start": 7.2447,
+      "end": 7.4553,
+      "duration": 0.2105
+    },
+    {
+      "text": "heat",
+      "start": 7.4684,
+      "end": 7.7579,
+      "duration": 0.2895
+    },
+    {
+      "text": "sinks",
+      "start": 7.771,
+      "end": 8.3632,
+      "duration": 0.5921
+    }
+  ],
+  "total_words": 23
+}

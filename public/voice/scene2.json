@@ -1,0 +1,196 @@
+{
+  "id": "scene2",
+  "scene": 2,
+  "text": "Here is the complete CAD assembly. It has five digits driven by six servo motors, with a thumb that rotates independently, and every part is designed to be three D printed.",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-5%",
+  "words": [
+    {
+      "text": "Here",
+      "start": 0.1,
+      "end": 0.6658,
+      "duration": 0.5658
+    },
+    {
+      "text": "is",
+      "start": 0.679,
+      "end": 0.8237,
+      "duration": 0.1447
+    },
+    {
+      "text": "the",
+      "start": 0.8368,
+      "end": 0.9421,
+      "duration": 0.1052
+    },
+    {
+      "text": "complete",
+      "start": 0.9553,
+      "end": 1.521,
+      "duration": 0.5658
+    },
+    {
+      "text": "CAD",
+      "start": 1.5342,
+      "end": 2.0737,
+      "duration": 0.5395
+    },
+    {
+      "text": "assembly",
+      "start": 2.0868,
+      "end": 2.8105,
+      "duration": 0.7237
+    },
+    {
+      "text": "It",
+      "start": 3.7474,
+      "end": 3.971,
+      "duration": 0.2237
+    },
+    {
+      "text": "has",
+      "start": 3.9842,
+      "end": 4.2079,
+      "duration": 0.2237
+    },
+    {
+      "text": "five",
+      "start": 4.221,
+      "end": 4.5895,
+      "duration": 0.3684
+    },
+    {
+      "text": "digits",
+      "start": 4.6026,
+      "end": 5.0237,
+      "duration": 0.421
+    },
+    {
+      "text": "driven",
+      "start": 5.0368,
+      "end": 5.4184,
+      "duration": 0.3816
+    },
+    {
+      "text": "by",
+      "start": 5.4316,
+      "end": 5.6421,
+      "duration": 0.2105
+    },
+    {
+      "text": "six",
+      "start": 5.6552,
+      "end": 5.971,
+      "duration": 0.3158
+    },
+    {
+      "text": "servo",
+      "start": 5.9842,
+      "end": 6.3263,
+      "duration": 0.3421
+    },
+    {
+      "text": "motors",
+      "start": 6.3395,
+      "end": 6.9579,
+      "duration": 0.6184
+    },
+    {
+      "text": "with",
+      "start": 7.0895,
+      "end": 7.2605,
+      "duration": 0.171
+    },
+    {
+      "text": "a",
+      "start": 7.2737,
+      "end": 7.3263,
+      "duration": 0.0526
+    },
+    {
+      "text": "thumb",
+      "start": 7.3395,
+      "end": 7.7342,
+      "duration": 0.3947
+    },
+    {
+      "text": "that",
+      "start": 7.7474,
+      "end": 7.9842,
+      "duration": 0.2368
+    },
+    {
+      "text": "rotates",
+      "start": 7.9974,
+      "end": 8.5105,
+      "duration": 0.5132
+    },
+    {
+      "text": "independently",
+      "start": 8.5237,
+      "end": 9.5368,
+      "duration": 1.0132
+    },
+    {
+      "text": "and",
+      "start": 9.6816,
+      "end": 10.0105,
+      "duration": 0.329
+    },
+    {
+      "text": "every",
+      "start": 10.0237,
+      "end": 10.3921,
+      "duration": 0.3684
+    },
+    {
+      "text": "part",
+      "start": 10.4053,
+      "end": 10.7474,
+      "duration": 0.3421
+    },
+    {
+      "text": "is",
+      "start": 10.7605,
+      "end": 10.879,
+      "duration": 0.1184
+    },
+    {
+      "text": "designed",
+      "start": 10.8921,
+      "end": 11.3921,
+      "duration": 0.5
+    },
+    {
+      "text": "to",
+      "start": 11.4053,
+      "end": 11.5105,
+      "duration": 0.1052
+    },
+    {
+      "text": "be",
+      "start": 11.5237,
+      "end": 11.6684,
+      "duration": 0.1447
+    },
+    {
+      "text": "three",
+      "start": 11.6816,
+      "end": 12.05,
+      "duration": 0.3684
+    },
+    {
+      "text": "D",
+      "start": 12.0632,
+      "end": 12.1947,
+      "duration": 0.1316
+    },
+    {
+      "text": "printed",
+      "start": 12.2079,
+      "end": 12.8,
+      "duration": 0.5921
+    }
+  ],
+  "total_words": 31
+}

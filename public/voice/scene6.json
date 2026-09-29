@@ -1,0 +1,142 @@
+{
+  "id": "scene6",
+  "scene": 6,
+  "text": "Potentiometers in the joints measure finger position, and a force-sensitive resistor in every fingertip measures grip force, giving researchers rich sensor data.",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-5%",
+  "words": [
+    {
+      "text": "Potentiometers",
+      "start": 0.1,
+      "end": 1.179,
+      "duration": 1.079
+    },
+    {
+      "text": "in",
+      "start": 1.1921,
+      "end": 1.2974,
+      "duration": 0.1052
+    },
+    {
+      "text": "the",
+      "start": 1.3105,
+      "end": 1.4158,
+      "duration": 0.1052
+    },
+    {
+      "text": "joints",
+      "start": 1.429,
+      "end": 1.9158,
+      "duration": 0.4868
+    },
+    {
+      "text": "measure",
+      "start": 1.929,
+      "end": 2.3368,
+      "duration": 0.4079
+    },
+    {
+      "text": "finger",
+      "start": 2.35,
+      "end": 2.7184,
+      "duration": 0.3684
+    },
+    {
+      "text": "position",
+      "start": 2.7316,
+      "end": 3.3763,
+      "duration": 0.6448
+    },
+    {
+      "text": "and",
+      "start": 3.5342,
+      "end": 3.7842,
+      "duration": 0.25
+    },
+    {
+      "text": "a",
+      "start": 3.7974,
+      "end": 3.8368,
+      "duration": 0.0395
+    },
+    {
+      "text": "force-sensitive",
+      "start": 3.85,
+      "end": 4.7974,
+      "duration": 0.9474
+    },
+    {
+      "text": "resistor",
+      "start": 4.8105,
+      "end": 5.4553,
+      "duration": 0.6448
+    },
+    {
+      "text": "in",
+      "start": 5.4684,
+      "end": 5.6526,
+      "duration": 0.1842
+    },
+    {
+      "text": "every",
+      "start": 5.6658,
+      "end": 6.0342,
+      "duration": 0.3684
+    },
+    {
+      "text": "fingertip",
+      "start": 6.0474,
+      "end": 6.6132,
+      "duration": 0.5658
+    },
+    {
+      "text": "measures",
+      "start": 6.6263,
+      "end": 7.1263,
+      "duration": 0.5
+    },
+    {
+      "text": "grip",
+      "start": 7.1395,
+      "end": 7.4421,
+      "duration": 0.3026
+    },
+    {
+      "text": "force",
+      "start": 7.4553,
+      "end": 7.9684,
+      "duration": 0.5132
+    },
+    {
+      "text": "giving",
+      "start": 8.1,
+      "end": 8.5342,
+      "duration": 0.4342
+    },
+    {
+      "text": "researchers",
+      "start": 8.5474,
+      "end": 9.2447,
+      "duration": 0.6974
+    },
+    {
+      "text": "rich",
+      "start": 9.2579,
+      "end": 9.521,
+      "duration": 0.2632
+    },
+    {
+      "text": "sensor",
+      "start": 9.5342,
+      "end": 10.0342,
+      "duration": 0.5
+    },
+    {
+      "text": "data",
+      "start": 10.0474,
+      "end": 10.5079,
+      "duration": 0.4605
+    }
+  ],
+  "total_words": 22
+}

@@ -1,0 +1,136 @@
+{
+  "id": "scene3",
+  "scene": 3,
+  "text": "Each finger is built from proximal, intermediate and distal sections, joined by pivot hinges and held together with small M2 screws.",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-5%",
+  "words": [
+    {
+      "text": "Each",
+      "start": 0.1,
+      "end": 0.4421,
+      "duration": 0.3421
+    },
+    {
+      "text": "finger",
+      "start": 0.4552,
+      "end": 0.9158,
+      "duration": 0.4605
+    },
+    {
+      "text": "is",
+      "start": 0.929,
+      "end": 1.0737,
+      "duration": 0.1447
+    },
+    {
+      "text": "built",
+      "start": 1.0868,
+      "end": 1.4026,
+      "duration": 0.3158
+    },
+    {
+      "text": "from",
+      "start": 1.4158,
+      "end": 1.6658,
+      "duration": 0.25
+    },
+    {
+      "text": "proximal",
+      "start": 1.679,
+      "end": 2.3763,
+      "duration": 0.6974
+    },
+    {
+      "text": "intermediate",
+      "start": 2.5868,
+      "end": 3.35,
+      "duration": 0.7632
+    },
+    {
+      "text": "and",
+      "start": 3.3632,
+      "end": 3.5474,
+      "duration": 0.1842
+    },
+    {
+      "text": "distal",
+      "start": 3.5605,
+      "end": 3.929,
+      "duration": 0.3684
+    },
+    {
+      "text": "sections",
+      "start": 3.9421,
+      "end": 4.6263,
+      "duration": 0.6842
+    },
+    {
+      "text": "joined",
+      "start": 4.8632,
+      "end": 5.3237,
+      "duration": 0.4605
+    },
+    {
+      "text": "by",
+      "start": 5.3368,
+      "end": 5.5079,
+      "duration": 0.171
+    },
+    {
+      "text": "pivot",
+      "start": 5.521,
+      "end": 6.0474,
+      "duration": 0.5263
+    },
+    {
+      "text": "hinges",
+      "start": 6.0605,
+      "end": 6.5737,
+      "duration": 0.5132
+    },
+    {
+      "text": "and",
+      "start": 6.5868,
+      "end": 6.7842,
+      "duration": 0.1974
+    },
+    {
+      "text": "held",
+      "start": 6.7974,
+      "end": 7.1395,
+      "duration": 0.3421
+    },
+    {
+      "text": "together",
+      "start": 7.1526,
+      "end": 7.771,
+      "duration": 0.6184
+    },
+    {
+      "text": "with",
+      "start": 7.7842,
+      "end": 7.9947,
+      "duration": 0.2105
+    },
+    {
+      "text": "small",
+      "start": 8.0079,
+      "end": 8.5473,
+      "duration": 0.5395
+    },
+    {
+      "text": "M2",
+      "start": 8.5605,
+      "end": 8.929,
+      "duration": 0.3684
+    },
+    {
+      "text": "screws",
+      "start": 8.9421,
+      "end": 9.6,
+      "duration": 0.6579
+    }
+  ],
+  "total_words": 21
+}

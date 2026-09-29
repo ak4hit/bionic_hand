@@ -1,0 +1,142 @@
+{
+  "id": "scene4",
+  "scene": 4,
+  "text": "The thumb has its own servo and a geared rotator, letting it swing across the palm for pinch, tripod and column grips.",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-5%",
+  "words": [
+    {
+      "text": "The",
+      "start": 0.1,
+      "end": 0.2974,
+      "duration": 0.1974
+    },
+    {
+      "text": "thumb",
+      "start": 0.3105,
+      "end": 0.6658,
+      "duration": 0.3553
+    },
+    {
+      "text": "has",
+      "start": 0.679,
+      "end": 0.9158,
+      "duration": 0.2368
+    },
+    {
+      "text": "its",
+      "start": 0.929,
+      "end": 1.1132,
+      "duration": 0.1842
+    },
+    {
+      "text": "own",
+      "start": 1.1263,
+      "end": 1.3763,
+      "duration": 0.25
+    },
+    {
+      "text": "servo",
+      "start": 1.3895,
+      "end": 1.9158,
+      "duration": 0.5263
+    },
+    {
+      "text": "and",
+      "start": 1.929,
+      "end": 2.1263,
+      "duration": 0.1974
+    },
+    {
+      "text": "a",
+      "start": 2.1395,
+      "end": 2.1921,
+      "duration": 0.0526
+    },
+    {
+      "text": "geared",
+      "start": 2.2052,
+      "end": 2.5605,
+      "duration": 0.3553
+    },
+    {
+      "text": "rotator",
+      "start": 2.5737,
+      "end": 3.2184,
+      "duration": 0.6448
+    },
+    {
+      "text": "letting",
+      "start": 3.35,
+      "end": 3.7579,
+      "duration": 0.4079
+    },
+    {
+      "text": "it",
+      "start": 3.771,
+      "end": 3.8895,
+      "duration": 0.1184
+    },
+    {
+      "text": "swing",
+      "start": 3.9026,
+      "end": 4.271,
+      "duration": 0.3684
+    },
+    {
+      "text": "across",
+      "start": 4.2842,
+      "end": 4.7447,
+      "duration": 0.4605
+    },
+    {
+      "text": "the",
+      "start": 4.7579,
+      "end": 4.8631,
+      "duration": 0.1052
+    },
+    {
+      "text": "palm",
+      "start": 4.8763,
+      "end": 5.2185,
+      "duration": 0.3421
+    },
+    {
+      "text": "for",
+      "start": 5.2316,
+      "end": 5.4026,
+      "duration": 0.171
+    },
+    {
+      "text": "pinch",
+      "start": 5.4158,
+      "end": 5.8895,
+      "duration": 0.4737
+    },
+    {
+      "text": "tripod",
+      "start": 6.0342,
+      "end": 6.7579,
+      "duration": 0.7237
+    },
+    {
+      "text": "and",
+      "start": 6.771,
+      "end": 6.9947,
+      "duration": 0.2237
+    },
+    {
+      "text": "column",
+      "start": 7.0079,
+      "end": 7.3763,
+      "duration": 0.3684
+    },
+    {
+      "text": "grips",
+      "start": 7.3895,
+      "end": 7.9421,
+      "duration": 0.5526
+    }
+  ],
+  "total_words": 22
+}

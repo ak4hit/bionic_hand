@@ -1,0 +1,124 @@
+{
+  "id": "scene7",
+  "scene": 7,
+  "text": "A camera in the palm captures what the hand sees, and rubber grip pads improve friction when holding objects.",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-5%",
+  "words": [
+    {
+      "text": "A",
+      "start": 0.1,
+      "end": 0.271,
+      "duration": 0.171
+    },
+    {
+      "text": "camera",
+      "start": 0.2842,
+      "end": 0.7974,
+      "duration": 0.5132
+    },
+    {
+      "text": "in",
+      "start": 0.8105,
+      "end": 0.9421,
+      "duration": 0.1316
+    },
+    {
+      "text": "the",
+      "start": 0.9553,
+      "end": 1.0474,
+      "duration": 0.0921
+    },
+    {
+      "text": "palm",
+      "start": 1.0605,
+      "end": 1.4027,
+      "duration": 0.3421
+    },
+    {
+      "text": "captures",
+      "start": 1.4158,
+      "end": 2.0342,
+      "duration": 0.6184
+    },
+    {
+      "text": "what",
+      "start": 2.0474,
+      "end": 2.2579,
+      "duration": 0.2105
+    },
+    {
+      "text": "the",
+      "start": 2.271,
+      "end": 2.3763,
+      "duration": 0.1052
+    },
+    {
+      "text": "hand",
+      "start": 2.3895,
+      "end": 2.6921,
+      "duration": 0.3026
+    },
+    {
+      "text": "sees",
+      "start": 2.7052,
+      "end": 3.1789,
+      "duration": 0.4737
+    },
+    {
+      "text": "and",
+      "start": 3.3368,
+      "end": 3.6132,
+      "duration": 0.2763
+    },
+    {
+      "text": "rubber",
+      "start": 3.6263,
+      "end": 3.9553,
+      "duration": 0.329
+    },
+    {
+      "text": "grip",
+      "start": 3.9684,
+      "end": 4.271,
+      "duration": 0.3026
+    },
+    {
+      "text": "pads",
+      "start": 4.2842,
+      "end": 4.6921,
+      "duration": 0.4079
+    },
+    {
+      "text": "improve",
+      "start": 4.7053,
+      "end": 5.1526,
+      "duration": 0.4474
+    },
+    {
+      "text": "friction",
+      "start": 5.1658,
+      "end": 5.679,
+      "duration": 0.5132
+    },
+    {
+      "text": "when",
+      "start": 5.6921,
+      "end": 5.8763,
+      "duration": 0.1842
+    },
+    {
+      "text": "holding",
+      "start": 5.8895,
+      "end": 6.3895,
+      "duration": 0.5
+    },
+    {
+      "text": "objects",
+      "start": 6.4026,
+      "end": 7.1395,
+      "duration": 0.7368
+    }
+  ],
+  "total_words": 19
+}

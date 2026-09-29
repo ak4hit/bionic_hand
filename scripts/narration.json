@@ -1,0 +1,58 @@
+[
+  {
+    "id": "scene1",
+    "scene": 1,
+    "name": "TITLE",
+    "topic": "INTRODUCING",
+    "text": "The HANDi Hand is an open-source robotic hand, built for machine learning and prosthetics research."
+  },
+  {
+    "id": "scene2",
+    "scene": 2,
+    "name": "CAD OVERVIEW",
+    "topic": "CAD OVERVIEW",
+    "text": "Here is the complete CAD assembly. It has five digits driven by six servo motors, with a thumb that rotates independently, and every part is designed to be three D printed."
+  },
+  {
+    "id": "scene3",
+    "scene": 3,
+    "name": "FINGER",
+    "topic": "MECHANICS",
+    "text": "Each finger is built from proximal, intermediate and distal sections, joined by pivot hinges and held together with small M2 screws."
+  },
+  {
+    "id": "scene4",
+    "scene": 4,
+    "name": "THUMB",
+    "topic": "KINEMATICS",
+    "text": "The thumb has its own servo and a geared rotator, letting it swing across the palm for pinch, tripod and column grips."
+  },
+  {
+    "id": "scene5",
+    "scene": 5,
+    "name": "ACTUATION",
+    "topic": "ACTUATION",
+    "text": "Each digit is pulled by a zip-tie tendon wound on a servo spool, and aluminium covers on the servos act as heat sinks."
+  },
+  {
+    "id": "scene6",
+    "scene": 6,
+    "name": "SENSING",
+    "topic": "SENSORS",
+    "text": "Potentiometers in the joints measure finger position, and a force-sensitive resistor in every fingertip measures grip force, giving researchers rich sensor data."
+  },
+  {
+    "id": "scene7",
+    "scene": 7,
+    "name": "PALM",
+    "topic": "VISION & GRIP",
+    "text": "A camera in the palm captures what the hand sees, and rubber grip pads improve friction when holding objects."
+  },
+  {
+    "id": "scene8",
+    "scene": 8,
+    "name": "OUTRO",
+    "topic": "OPEN RESEARCH",
+    "text": "It is open source, takes about thirty hours to build, and can be modified for your own research."
+  }
+]

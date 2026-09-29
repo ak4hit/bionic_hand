@@ -1,0 +1,100 @@
+{
+  "id": "scene1",
+  "scene": 1,
+  "text": "The HANDi Hand is an open-source robotic hand, built for machine learning and prosthetics research.",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-5%",
+  "words": [
+    {
+      "text": "The",
+      "start": 0.1,
+      "end": 0.2974,
+      "duration": 0.1974
+    },
+    {
+      "text": "HANDi",
+      "start": 0.3105,
+      "end": 0.7447,
+      "duration": 0.4342
+    },
+    {
+      "text": "Hand",
+      "start": 0.7579,
+      "end": 1.0868,
+      "duration": 0.329
+    },
+    {
+      "text": "is",
+      "start": 1.1,
+      "end": 1.2184,
+      "duration": 0.1184
+    },
+    {
+      "text": "an",
+      "start": 1.2316,
+      "end": 1.35,
+      "duration": 0.1184
+    },
+    {
+      "text": "open-source",
+      "start": 1.3632,
+      "end": 2.1,
+      "duration": 0.7368
+    },
+    {
+      "text": "robotic",
+      "start": 2.1132,
+      "end": 2.6526,
+      "duration": 0.5395
+    },
+    {
+      "text": "hand",
+      "start": 2.6658,
+      "end": 3.1263,
+      "duration": 0.4605
+    },
+    {
+      "text": "built",
+      "start": 3.2842,
+      "end": 3.6132,
+      "duration": 0.329
+    },
+    {
+      "text": "for",
+      "start": 3.6263,
+      "end": 3.7974,
+      "duration": 0.171
+    },
+    {
+      "text": "machine",
+      "start": 3.8105,
+      "end": 4.2447,
+      "duration": 0.4342
+    },
+    {
+      "text": "learning",
+      "start": 4.2579,
+      "end": 4.771,
+      "duration": 0.5132
+    },
+    {
+      "text": "and",
+      "start": 4.7842,
+      "end": 5.0079,
+      "duration": 0.2237
+    },
+    {
+      "text": "prosthetics",
+      "start": 5.021,
+      "end": 5.7316,
+      "duration": 0.7105
+    },
+    {
+      "text": "research",
+      "start": 5.7447,
+      "end": 6.35,
+      "duration": 0.6052
+    }
+  ],
+  "total_words": 15
+}

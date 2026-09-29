@@ -1,0 +1,118 @@
+{
+  "id": "scene8",
+  "scene": 8,
+  "text": "It is open source, takes about thirty hours to build, and can be modified for your own research.",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-5%",
+  "words": [
+    {
+      "text": "It",
+      "start": 0.1,
+      "end": 0.3237,
+      "duration": 0.2237
+    },
+    {
+      "text": "is",
+      "start": 0.3368,
+      "end": 0.4947,
+      "duration": 0.1579
+    },
+    {
+      "text": "open",
+      "start": 0.5079,
+      "end": 0.8763,
+      "duration": 0.3684
+    },
+    {
+      "text": "source",
+      "start": 0.8895,
+      "end": 1.4158,
+      "duration": 0.5263
+    },
+    {
+      "text": "takes",
+      "start": 1.5605,
+      "end": 1.9027,
+      "duration": 0.3421
+    },
+    {
+      "text": "about",
+      "start": 1.9158,
+      "end": 2.2842,
+      "duration": 0.3684
+    },
+    {
+      "text": "thirty",
+      "start": 2.2974,
+      "end": 2.7316,
+      "duration": 0.4342
+    },
+    {
+      "text": "hours",
+      "start": 2.7447,
+      "end": 3.0869,
+      "duration": 0.3421
+    },
+    {
+      "text": "to",
+      "start": 3.1,
+      "end": 3.2316,
+      "duration": 0.1316
+    },
+    {
+      "text": "build",
+      "start": 3.2447,
+      "end": 3.679,
+      "duration": 0.4342
+    },
+    {
+      "text": "and",
+      "start": 3.8237,
+      "end": 4.0868,
+      "duration": 0.2632
+    },
+    {
+      "text": "can",
+      "start": 4.1,
+      "end": 4.2974,
+      "duration": 0.1974
+    },
+    {
+      "text": "be",
+      "start": 4.3105,
+      "end": 4.4421,
+      "duration": 0.1316
+    },
+    {
+      "text": "modified",
+      "start": 4.4553,
+      "end": 5.1,
+      "duration": 0.6448
+    },
+    {
+      "text": "for",
+      "start": 5.1132,
+      "end": 5.2974,
+      "duration": 0.1842
+    },
+    {
+      "text": "your",
+      "start": 5.3105,
+      "end": 5.5211,
+      "duration": 0.2105
+    },
+    {
+      "text": "own",
+      "start": 5.5342,
+      "end": 5.7974,
+      "duration": 0.2632
+    },
+    {
+      "text": "research",
+      "start": 5.8105,
+      "end": 6.4421,
+      "duration": 0.6316
+    }
+  ],
+  "total_words": 18
+}
