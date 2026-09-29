@@ -1,9 +1,8 @@
 # Dependencies
 node_modules/
 
-# Build artifacts - only include the rendered video
-out/
-!out/handi_demo.mp4
+# Build artifacts
+# out/ is committed so the final render is available directly from the repo
 
 # Cache directories
 .cache/
