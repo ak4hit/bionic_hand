@@ -82,8 +82,8 @@ export const DEFAULT_SCENES_CONFIG: SceneConfig[] = [
     id: "scene8",
     scene: 8,
     name: "OUTRO",
-    topic: "OPEN RESEARCH",
-    text: "It is open source, takes about thirty hours to build, and can be modified for your own research.",
-    fallbackDuration: 6.5,
+    topic: "PROJECT OVERVIEW",
+    text: "By combining intelligent actuation, multi-modal sensory feedback, and palm vision, our bionic hand delivers an affordable, responsive platform for next-generation prosthetics.",
+    fallbackDuration: 12.5,
   },
 ];

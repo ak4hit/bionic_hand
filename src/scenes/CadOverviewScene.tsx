@@ -1,5 +1,5 @@
 import React from "react";
-import { Audio, OffthreadVideo, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
+import { Audio, spring, staticFile, useCurrentFrame, useVideoConfig, Video } from "remotion";
 import { Captions } from "../components/Captions";
 import { COLORS } from "../constants";
 import { SceneProps } from "../types";
@@ -117,7 +117,7 @@ export const CadOverviewScene: React.FC<SceneProps> = ({
           </span>
         </div>
 
-        <OffthreadVideo
+        <Video
           src={staticFile("handi_freecad.mp4")}
           startFrom={0}
           muted

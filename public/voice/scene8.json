@@ -1,118 +1,136 @@
 {
   "id": "scene8",
   "scene": 8,
-  "text": "It is open source, takes about thirty hours to build, and can be modified for your own research.",
+  "text": "By combining intelligent actuation, multi-modal sensory feedback, and palm vision, our bionic hand delivers an affordable, responsive platform for next-generation prosthetics.",
   "voice": "en-IN-NeerjaNeural",
   "rate": "-5%",
   "words": [
     {
-      "text": "It",
+      "text": "By",
       "start": 0.1,
-      "end": 0.3237,
-      "duration": 0.2237
+      "end": 0.4158,
+      "duration": 0.3158
     },
     {
-      "text": "is",
-      "start": 0.3368,
-      "end": 0.4947,
-      "duration": 0.1579
-    },
-    {
-      "text": "open",
-      "start": 0.5079,
-      "end": 0.8763,
-      "duration": 0.3684
-    },
-    {
-      "text": "source",
-      "start": 0.8895,
-      "end": 1.4158,
-      "duration": 0.5263
-    },
-    {
-      "text": "takes",
-      "start": 1.5605,
-      "end": 1.9027,
-      "duration": 0.3421
-    },
-    {
-      "text": "about",
-      "start": 1.9158,
-      "end": 2.2842,
-      "duration": 0.3684
-    },
-    {
-      "text": "thirty",
-      "start": 2.2974,
-      "end": 2.7316,
-      "duration": 0.4342
-    },
-    {
-      "text": "hours",
-      "start": 2.7447,
-      "end": 3.0869,
-      "duration": 0.3421
-    },
-    {
-      "text": "to",
-      "start": 3.1,
-      "end": 3.2316,
-      "duration": 0.1316
-    },
-    {
-      "text": "build",
-      "start": 3.2447,
-      "end": 3.679,
-      "duration": 0.4342
-    },
-    {
-      "text": "and",
-      "start": 3.8237,
-      "end": 4.0868,
-      "duration": 0.2632
-    },
-    {
-      "text": "can",
-      "start": 4.1,
-      "end": 4.2974,
-      "duration": 0.1974
-    },
-    {
-      "text": "be",
-      "start": 4.3105,
-      "end": 4.4421,
-      "duration": 0.1316
-    },
-    {
-      "text": "modified",
-      "start": 4.4553,
-      "end": 5.1,
+      "text": "combining",
+      "start": 0.429,
+      "end": 1.0737,
       "duration": 0.6448
     },
     {
-      "text": "for",
-      "start": 5.1132,
-      "end": 5.2974,
-      "duration": 0.1842
+      "text": "intelligent",
+      "start": 1.0868,
+      "end": 1.8105,
+      "duration": 0.7237
     },
     {
-      "text": "your",
-      "start": 5.3105,
-      "end": 5.5211,
-      "duration": 0.2105
+      "text": "actuation",
+      "start": 1.8237,
+      "end": 2.6395,
+      "duration": 0.8158
     },
     {
-      "text": "own",
-      "start": 5.5342,
-      "end": 5.7974,
+      "text": "multi-modal",
+      "start": 2.771,
+      "end": 3.5474,
+      "duration": 0.7763
+    },
+    {
+      "text": "sensory",
+      "start": 3.5605,
+      "end": 4.1132,
+      "duration": 0.5526
+    },
+    {
+      "text": "feedback",
+      "start": 4.1263,
+      "end": 4.85,
+      "duration": 0.7237
+    },
+    {
+      "text": "and",
+      "start": 4.9947,
+      "end": 5.2711,
+      "duration": 0.2763
+    },
+    {
+      "text": "palm",
+      "start": 5.2842,
+      "end": 5.6,
+      "duration": 0.3158
+    },
+    {
+      "text": "vision",
+      "start": 5.6132,
+      "end": 6.1132,
+      "duration": 0.5
+    },
+    {
+      "text": "our",
+      "start": 6.2447,
+      "end": 6.4421,
+      "duration": 0.1974
+    },
+    {
+      "text": "bionic",
+      "start": 6.4553,
+      "end": 6.9816,
+      "duration": 0.5263
+    },
+    {
+      "text": "hand",
+      "start": 6.9947,
+      "end": 7.2579,
       "duration": 0.2632
     },
     {
-      "text": "research",
-      "start": 5.8105,
-      "end": 6.4421,
-      "duration": 0.6316
+      "text": "delivers",
+      "start": 7.271,
+      "end": 7.8105,
+      "duration": 0.5395
+    },
+    {
+      "text": "an",
+      "start": 7.8237,
+      "end": 7.9552,
+      "duration": 0.1316
+    },
+    {
+      "text": "affordable",
+      "start": 7.9684,
+      "end": 8.679,
+      "duration": 0.7105
+    },
+    {
+      "text": "responsive",
+      "start": 8.8105,
+      "end": 9.5605,
+      "duration": 0.75
+    },
+    {
+      "text": "platform",
+      "start": 9.5737,
+      "end": 10.1658,
+      "duration": 0.5921
+    },
+    {
+      "text": "for",
+      "start": 10.179,
+      "end": 10.3368,
+      "duration": 0.1579
+    },
+    {
+      "text": "next-generation",
+      "start": 10.35,
+      "end": 11.2842,
+      "duration": 0.9342
+    },
+    {
+      "text": "prosthetics",
+      "start": 11.2974,
+      "end": 12.1526,
+      "duration": 0.8552
     }
   ],
-  "total_words": 18
+  "total_words": 21
 }
