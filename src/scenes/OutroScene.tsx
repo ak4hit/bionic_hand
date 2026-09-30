@@ -1,5 +1,5 @@
 import React from "react";
-import { Audio, spring, staticFile, useCurrentFrame, useVideoConfig, Video } from "remotion";
+import { Audio, OffthreadVideo, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { Captions } from "../components/Captions";
 import { Chip } from "../components/Chip";
 import { COLORS } from "../constants";
@@ -71,9 +71,9 @@ export const OutroScene: React.FC<SceneProps> = ({
           overflow: "hidden",
         }}
       >
-        <Video
+        <OffthreadVideo
           src={staticFile("handi_freecad.mp4")}
-          startFrom={14 * 30}
+          startFrom={0}
           muted
           style={{
             width: "100%",
